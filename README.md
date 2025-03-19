@@ -20,8 +20,8 @@ AcadHomepage
 </p>
 
 Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+- [Demo Page](https://github.com/RuichenLi0213/RuichenLi0213.github.io/)
+- [Personal Homepage of the author](https://RuichenLi0213.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
