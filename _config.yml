@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruichen Li"
-description              : "Every obstacle is a new parameter for the algorithm."
+description              : "The University of Tokyo"
 repository               : "RuichenLi0213/RuichenLi0213.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,6 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Project Researcher"
   location         : "Tokyo, Japan"
-  employer         : "The University of Tokyo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID"
   email            : "li.ruichen@mail.u-tokyo.ac.jp; liruichen0213@outlook.com"
