@@ -22,10 +22,11 @@ redirect_from:
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
 # Email
-- li.ruichen[AT]mail.u-tokyo.ac.jp
-- liruichen0213[AT]outlook.com
+- li.ruichen [AT] mail.u-tokyo.ac.jp
+- liruichen0213 [AT] outlook.com
 
 # Experiences
+- *Oct. 2019 - Sep. 2023*: Doctoral stage, Machine learning-driven 0-1D multiscale hemodynamic model of the cardiovascular system with consideration of respiratory fluctuations
 
 # Publications 
 -
