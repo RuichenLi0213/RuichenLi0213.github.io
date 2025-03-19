@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruichen Li"
+title                    : "Ruichen Li, Ph.D."
 description              : "Every obstacle is a new parameter for the algorithm."
 repository               : "RuichenLi0213/RuichenLi0213.github.io"
 google_scholar_stats_use_cdn : true
