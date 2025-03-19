@@ -21,8 +21,12 @@ redirect_from:
 
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
+# Email
+- li.ruichen@mail.u-tokyo.ac.jp
+- liruichen0213@outlook.com
+
 # Publications 
-<span class='show_paper_citations' data='X3We4tkAAAAJ&hl=en'></span>
+[1] 
 
 # Conference
 - *Mar. 2024*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*
@@ -31,5 +35,3 @@ I have been working as a project researcher at the International Research Center
 - *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
-
-# Internships
