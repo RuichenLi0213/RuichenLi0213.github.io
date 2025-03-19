@@ -25,11 +25,11 @@ I have been working as a project researcher at the International Research Center
 - li.ruichen[AT]mail.u-tokyo.ac.jp
 - liruichen0213[AT]outlook.com
 
+# Experiences
+
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='show_paper_citations' data='X3We4tkAAAAJ&hl=en'></span>
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<a href='https://scholar.google.com/citations?user=X3We4tkAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>
+-
 
 # Conference
 - *Mar. 2024*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*
