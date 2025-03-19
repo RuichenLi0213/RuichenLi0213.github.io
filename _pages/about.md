@@ -22,8 +22,8 @@ redirect_from:
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
 # Email
-- li.ruichen@mail.u-tokyo.ac.jp
-- liruichen0213@outlook.com
+- li.ruichen[AT]mail.u-tokyo.ac.jp
+- liruichen0213[AT]outlook.com
 
 # Publications 
 [1] 
