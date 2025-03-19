@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruichen Li, Ph.D."
+title                    : "Ruichen Li_PhD"
 description              : "Every obstacle is a new parameter for the algorithm."
 description              : ""
 repository               : "RuichenLi0213/RuichenLi0213.github.io"
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruichen Li"
+  name             : "Ruichen Li, Ph.D."
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Project Researcher"
   employer         : "The University of Tokyo"
