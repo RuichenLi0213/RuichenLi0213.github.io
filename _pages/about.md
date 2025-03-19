@@ -17,21 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
-# News
-- *2024.03*: Poster Presentation on *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*
+
+I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
 # Publications 
 <span class='show_paper_citations' data='X3We4tkAAAAJ&hl=en'></span>
 
-# 🎖 Honors and Awards
+# Conference
+- *Mar. 2024*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*
 
+# Educations
+- *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
+- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
+- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 
-# 📖 Educations
-
-
-# 💬 Invited Talks
-
-
-# 💻 Internships
+# Internships
