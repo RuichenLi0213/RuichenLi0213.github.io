@@ -28,7 +28,6 @@ I have been working as a project researcher at the International Research Center
 # Experiences
 
 # Publications 
-<a href='https://scholar.google.com/citations?user=X3We4tkAAAAJ&hl=en'>Google scholar <strong><span id='total_cit'></span></strong></a>
 -
 
 # Conference
