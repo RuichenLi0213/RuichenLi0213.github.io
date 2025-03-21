@@ -60,3 +60,10 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 
+<hr />
+
+<p style="font-size: 14px; color: gray; text-align: center;">
+  <strong>Acknowledgments</strong><br>
+  Thanks to my families and colleagues for their supports and inspiration.
+  Special thanks for <a href="https://github.com/RayeRen/acad-homepage.github.io?tab=readme-ov-file" target="_blank">RayeRen</a> to provide this website template.
+</p>
