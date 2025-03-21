@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-h2 {
-  scroll-margin-top: 100px;  /* 根据你的导航栏高度调整这个值 */
-}
-</style>
+
 <span id="Greeting"></span>
 ## Greeting
 Welcome, and thank you for visiting my page.
