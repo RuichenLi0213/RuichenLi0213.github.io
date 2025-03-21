@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<a href="# Experience">Experiences</a>
-
 Welcome, and thank you for visiting my page!
 
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
