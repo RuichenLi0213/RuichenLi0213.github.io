@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span id="Greeting"></span>
+## Greeting
 Welcome, and thank you for visiting my page.
 
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
