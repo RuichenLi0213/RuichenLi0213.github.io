@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;"><strong>Every obstacle is a new parameter for the algorithm.</strong></span>
-
 <span id="Greeting"></span>
 ## Greeting
 Welcome, and thank you for visiting my page.
