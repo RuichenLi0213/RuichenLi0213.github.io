@@ -65,5 +65,5 @@ If you share similar interests or are curious about potential collaborations, fe
 <p style="font-size: 14px; color: gray; text-align: center;">
   <strong>Acknowledgments</strong><br>
   Thanks to my family, master's and Ph.D. supervisors, and colleagues for their support and inspiration.<br>
-  Special thanks for <a href="https://github.com/RayeRen/acad-homepage.github.io?tab=readme-ov-file" target="_blank">RayeRen</a> to provide this website template.
+  Special thanks to <a href="https://github.com/RayeRen/acad-homepage.github.io?tab=readme-ov-file" target="_blank">RayeRen</a> for providing the website template.
 </p>
