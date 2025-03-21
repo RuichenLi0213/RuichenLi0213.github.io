@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span id="Greeting"></span>
+
 ## Greeting
 Welcome, and thank you for visiting my page.
 
@@ -30,10 +31,12 @@ If you share similar interests or are curious about potential collaborations, fe
 - liruichen0213 [AT] outlook.com
 
 <span id="-Experiences"></span>
+
 ## Experiences 
 - *Jan. 2024 - now*: Project researcher, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan.
 
 <span id="-Publications"></span>
+
 ## Publications 
 - Sughimoto, K., Miki, T., Li, R., Maeda, K., Koda, D., Fujiwara, T., & Liu, H. (2025). Impact of collateral vessels on Fontan circulation: 0-1dimensional Fontan circulation model and concept of oxygen supply and consumption. *Annals of Thoracic Surgery Short Reports*.
 - Sughimoto, K., Miki, T., Li, R., Fujiwara, T. F., & Liu, H. (2023). Impact of collateral vessels on Fontan circulation by using 0-1 dimensional Fontan circulation model considering concepts of oxygen supply and consumption. *European Heart Journal*, 44(Supplement_2), ehad655-3208.
@@ -45,6 +48,7 @@ If you share similar interests or are curious about potential collaborations, fe
 - Ruichen, L., Boyan, X., & Yunliang, Q. (2019). Research on mechanism of low speed pre-ignition and knock process in boosted direct injection spark ignition gosoline engines. *Journal of Physics: Conference Series*, 1176(5), 052069.
 
 <span id="-Conferences"></span>
+
 ## Conferences
 - *Mar. 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Japan.
 - *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Saidama, Japan.
@@ -54,6 +58,7 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Japan.
 
 <span id="-Educations"></span>
+
 ## Educations
 - *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
