@@ -31,11 +31,6 @@ If you share similar interests or are curious about potential collaborations, fe
 # Experiences
 - *Jan. 2024 - now*: Project researcher, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan.
 
-# Educations
-- *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
-- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
-- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
-
 # Publications 
 - Sughimoto, K., Miki, T., Li, R., Maeda, K., Koda, D., Fujiwara, T., & Liu, H. (2025). Impact of collateral vessels on Fontan circulation: 0-1dimensional Fontan circulation model and concept of oxygen supply and consumption. *Annals of Thoracic Surgery Short Reports*.
 - Sughimoto, K., Miki, T., Li, R., Fujiwara, T. F., & Liu, H. (2023). Impact of collateral vessels on Fontan circulation by using 0-1 dimensional Fontan circulation model considering concepts of oxygen supply and consumption. *European Heart Journal*, 44(Supplement_2), ehad655-3208.
@@ -54,4 +49,8 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy.
 - *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Japan.
 
+# Educations
+- *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
+- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
+- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 
