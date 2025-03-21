@@ -59,11 +59,15 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
+<br>
+<br>
+<br>
+
 
 <hr />
 
 <p style="font-size: 14px; color: gray; text-align: center;">
   <strong>Acknowledgments</strong><br>
-  Thanks to my family, master's and Ph.D. supervisors, and colleagues for their support and inspiration.<br>
+  Thanks to my family, Ph.D. and master's supervisors, and colleagues for their support and inspiration.<br>
   Special thanks to <a href="https://github.com/RayeRen/acad-homepage.github.io?tab=readme-ov-file" target="_blank">RayeRen</a> for providing the website template.
 </p>
