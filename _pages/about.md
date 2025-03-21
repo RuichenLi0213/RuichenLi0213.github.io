@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<a href="# Experience">Experiences</a>
+
 Welcome, and thank you for visiting my page!
 
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
@@ -28,7 +30,8 @@ If you share similar interests or are curious about potential collaborations, fe
 - li.ruichen [AT] mail.u-tokyo.ac.jp
 - liruichen0213 [AT] outlook.com
 
-# Experiences
+<span class='anchor' id='about-me'></span>
+# Experiences 
 - *Jan. 2024 - now*: Project researcher, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan.
 
 # Publications 
