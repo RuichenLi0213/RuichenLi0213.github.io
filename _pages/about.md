@@ -28,7 +28,7 @@ If you share similar interests or are curious about potential collaborations, fe
 - li.ruichen [AT] mail.u-tokyo.ac.jp
 - liruichen0213 [AT] outlook.com
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='Experiences'></span>
 # Experiences 
 - *Jan. 2024 - now*: Project researcher, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan.
 
