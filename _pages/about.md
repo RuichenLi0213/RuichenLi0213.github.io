@@ -20,7 +20,7 @@ I am particularly interested in how cross-system interactions contribute to main
 
 My current work seeks to address the following fundamental questions: 
 - How do quantifiable interoceptive signals, like blood pressure and heart rate variability, differ across neurodivergent individuals?
-- How can we offer self-regulation strategies for neurodivergent populations experiencing abnormal internal signaling due to ANS dysregulation?
+- How can we offer self-regulation strategies for neurodivergent populations experiencing abnormal internal signaling due to ANS dysfunction?
 
 I am also enthusiastic about integrating emerging methodologies—such as artificial intelligence and quantum computation—into my research to further explore the inner and inter-system dynamics of the biological body.
 
