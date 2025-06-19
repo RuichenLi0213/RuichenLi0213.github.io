@@ -9,26 +9,29 @@ redirect_from:
 ---
 
 <span id="Greeting"></span>
-## Greeting
+# Greeting
 Welcome, and thank you for visiting my page.
 
 I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
 
-My research focuses on physiological modeling of multiple interacting systems within the human body. I develop multi-system computational models of the cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS) to reproduce and analyze quantifiable interoceptive signals—such as blood pressure and heart rate variabilities—validated against real human data.
-
-I am particularly interested in how cross-system interactions contribute to maintaining homeostasis and allostasis. My models are designed to capture key mechanisms, including the influence of respiration on central and cerebral hemodynamics, and the modulatory effects of functional or dysfunctional ANS activity on interoceptive indicators.
+My research focuses on physiological modeling of multiple interacting systems within the human body. I develop multi-system computational models of the cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS) to reproduce and analyze quantifiable interoceptive signals—such as variabilities of blood pressure and heart rate—validated against real human data. I am particularly interested in how cross-system interactions contribute to maintaining and mediating homeostasis and allostasis in human body.
 
 My current work seeks to address the following fundamental questions: 
-- How do quantifiable interoceptive signals, like blood pressure and heart rate variability, differ across neurodivergent individuals?
-- How can we offer self-regulation strategies for neurodivergent populations experiencing abnormal internal signaling due to ANS dysfunction?
+- How do quantifiable interoceptive signals, like blood pressure and heart rate, differ across neurodivergent conditions?
+- How to offer self-regulation strategies for neurodivergent populations experiencing ANS dysfunction?
 
-I am also enthusiastic about integrating emerging methodologies—such as artificial intelligence and quantum computation—into my research to further explore the inner and inter-system dynamics of the biological body.
+In addition, I am enthusiastic about integrating emerging methodologies—such as artificial intelligence (AI) and quantum computation—into my research to further explore the inner and inter-system dynamics of the biological body.
 
-If you share similar interests or are curious about potential collaborations, feel free to reach out. I’m always open to new ideas and interdisciplinary work.
+If you share similar interests or are curious about potential collaborations, please feel free to reach out. I’m always open to new ideas and interdisciplinary work.
 
-# Email
+## Email
 - *Official email*: li.ruichen [AT] mail.u-tokyo.ac.jp
 - *Personal email*: liruichen0213 [AT] outlook.com
+
+<span id="-News"></span>
+## News
+- *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
+- *Apr 17, 2025*: IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
 
 <span id="-Experiences"></span>
 ## Experiences 
@@ -59,12 +62,6 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
-
-<span id="-News"></span>
-## News
-- *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
-- *Apr 17, 2025*: IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
-
 <br>
 <br>
 <br>
