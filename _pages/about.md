@@ -35,8 +35,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Experiences"></span>
 ## Experiences 
-- *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan.
--   Visit homepage of Cogintive Developmental Robotics Lab in the University of Tokyo from [URL](https://developmental-robotics.jp/en/home/#pll_switcher)
+- *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. ([Homepage](https://developmental-robotics.jp/en/home/#pll_switcher))
 
 <span id="-Publications"></span>
 ## Publications 
@@ -60,8 +59,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Educations"></span>
 ## Educations
-- *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
--   Visit homepage of Biomechanical Engineering Lab in Chiba University from [URL](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
+- *Oct. 2019 - Sep. 2023*: Ph.D, Biomechanical Engineering Lab, Graduate School of Science and Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 <br>
