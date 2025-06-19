@@ -27,13 +27,8 @@ I am also enthusiastic about integrating emerging methodologies—such as artifi
 If you share similar interests or are curious about potential collaborations, feel free to reach out. I’m always open to new ideas and interdisciplinary work.
 
 # Email
-- li.ruichen [AT] mail.u-tokyo.ac.jp
-- liruichen0213 [AT] outlook.com
-
-<span id="-News"></span>
-## News
-- *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
-- *Apr 17, 2025*: IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
+- *Official email*: li.ruichen [AT] mail.u-tokyo.ac.jp
+- *Personal email*: liruichen0213 [AT] outlook.com
 
 <span id="-Experiences"></span>
 ## Experiences 
@@ -64,6 +59,12 @@ If you share similar interests or are curious about potential collaborations, fe
 - *Oct. 2019 - Sep. 2023*: Ph.D, Graduate School of Science and Engineering, Chiba University, Japan.
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
+
+<span id="-News"></span>
+## News
+- *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
+- *Apr 17, 2025*: IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
+
 <br>
 <br>
 <br>
