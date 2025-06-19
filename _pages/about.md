@@ -33,6 +33,7 @@ If you share similar interests or are curious about potential collaborations, fe
 <span id="-News"></span>
 ## News
 - *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
+- *Apr 17, 2025*: IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
 
 <span id="-Experiences"></span>
 ## Experiences 
