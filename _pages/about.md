@@ -25,8 +25,8 @@ In addition, I am enthusiastic about integrating emerging methodologies—such a
 If you share similar interests or are curious about potential collaborations, please feel free to reach out. I’m always open to new ideas and interdisciplinary work.
 
 ## Email
-- *Official email*: li.ruichen [AT] mail.u-tokyo.ac.jp
-- *Personal email*: liruichen0213 [AT] outlook.com
+- *Official email*: li.ruichen (AT) mail.u-tokyo.ac.jp (Using "@" replace "(AT)")
+- *Personal email*: liruichen0213 (AT) outlook.com (Using "@" replace "(AT)")
 
 <span id="-News"></span>
 ## News
