@@ -3,9 +3,6 @@ main:
   - title: "Greeting"
     url: "/#Greeting"
 
-  - title: "News"
-    url: "/#News"
-
   - title: "Experiences"
     url: "/#-Experiences"
 
@@ -17,3 +14,6 @@ main:
 
   - title: "Educations"
     url: "/#-Educations"
+    
+  - title: "News"
+    url: "/#News"
