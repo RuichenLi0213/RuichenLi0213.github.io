@@ -35,7 +35,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Experiences"></span>
 ## Experiences 
-- *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. ([Homepage](https://developmental-robotics.jp/en/home/#pll_switcher))
+- *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
 
 <span id="-Publications"></span>
 ## Publications 
