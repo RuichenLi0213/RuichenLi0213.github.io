@@ -50,12 +50,12 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Conferences"></span>
 ## Conferences
-- *Mar. 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Japan.
-- *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Saidama, Japan.
-- *Aug. 2024*: Poster Presentation, *The 24th Congress of the Japanese Society of Baby Science (JSBS2024)*. Tokyo, Japan.
-- *Feb. 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Aichi, Japan.
+- *Mar. 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Chiba, Japan. [URL](https://www.aeplan.jp/appw2025/)
+- *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Tokorozawa, Saidama, Japan. [URL](https://jsdn.jp/meeting-information/13th-2024)
+- *Aug. 2024*: Poster Presentation, *The 24th Congress of the Japanese Society of Baby Science (JSBS2024)*. Tokyo, Japan. [URL](https://jsbs2024.developmental-robotics.jp/home/home/)
+- *Feb. 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan. [URL](https://sites.google.com/nips.ac.jp/s2024)
 - *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy.
-- *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Japan.
+- *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan.
 
 <span id="-Educations"></span>
 ## Educations
