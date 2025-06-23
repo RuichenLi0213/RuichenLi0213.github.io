@@ -12,7 +12,7 @@ redirect_from:
 # Greeting
 Welcome, and thank you for visiting my page.
 
-I have been working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo since January 2024.
+I am working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo.
 
 My research focuses on physiological modeling of multiple interacting systems within the human body. I develop multi-system computational models of the cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS) to reproduce and analyze quantifiable interoceptive signals—such as variabilities of blood pressure and heart rate—validated against real human data. I am particularly interested in how cross-system interactions contribute to maintaining and mediating homeostasis and allostasis in human body.
 
