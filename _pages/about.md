@@ -54,7 +54,7 @@ If you share similar interests or are curious about potential collaborations, pl
 - *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Tokorozawa, Saidama, Japan. [URL](https://jsdn.jp/meeting-information/13th-2024)
 - *Aug. 2024*: Poster Presentation, *The 24th Congress of the Japanese Society of Baby Science (JSBS2024)*. Tokyo, Japan. [URL](https://jsbs2024.developmental-robotics.jp/home/home/)
 - *Feb. 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan. [URL](https://sites.google.com/nips.ac.jp/s2024)
-- *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy.
+- *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy. [URL](https://compbiomed.net/CMBE/cmbe2022/)
 - *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan.
 
 <span id="-Educations"></span>
