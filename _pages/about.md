@@ -35,7 +35,7 @@ If you share similar interests or are curious about potential collaborations, pl
 - *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship, Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
 - *Apr 17, 2025*: Host IRCN Science Tour, The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
 - *June 24-28, 2024*: Host Hands-on project, UTokyo Global Unit Courses (GUC2024), The University of Tokyo, Japan. Project Title "*Analysis and modulation of heart rate variability (HRV)*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc_24S_20240415.html)
-- *May 22-27, 2024*: Host Workshop. Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures, The University of Tokyo, Japan. Presentation Title "*AI integrated multi-system modeling method revealing interaction among interoception, external stimuli, and psychological states*". [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
+- *May 22-27, 2024*: Host Workshop. Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures, The University of Tokyo, Japan. [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
 
 <span id="-Experiences"></span>
 ## Experiences 
@@ -54,12 +54,13 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Conferences"></span>
 ## Conferences
-- *Mar. 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Chiba, Japan. [URL](https://www.aeplan.jp/appw2025/)
-- *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Tokorozawa, Saidama, Japan. [URL](https://jsdn.jp/meeting-information/13th-2024)
-- *Aug. 2024*: Poster Presentation, *The 24th Congress of the Japanese Society of Baby Science (JSBS2024)*. Tokyo, Japan. [URL](https://jsbs2024.developmental-robotics.jp/home/home/)
-- *Feb. 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan. [URL](https://sites.google.com/nips.ac.jp/s2024)
-- *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy. [URL](https://compbiomed.net/CMBE/cmbe2022/)
-- *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan. [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
+- *Mar. 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Chiba, Japan. Presentation Title "*Multi-system Computational Modeling Analysis for Interoceptive Signal Modulation Under Various Autonomic Control Modes*". [URL](https://www.aeplan.jp/appw2025/)
+- *Nov. 2024*: Poster Presentation, *The 13th Annual Meeting of the Japan Society for Developmental Neuroscience (JSDN2024)*. Tokorozawa, Saidama, Japan. Presentation Title "*Multi-system Model Analysis for Interoceptive Signals Regulation Under Autonomic Nervous System (ANS) Dysfunction*". [URL](https://jsdn.jp/meeting-information/13th-2024)
+- *Aug. 2024*: Poster Presentation, *The 24th Congress of the Japanese Society of Baby Science (JSBS2024)*. Tokyo, Japan. Presentation Title "*Multi-system Modeling of the Interaction Between Emotional Fluctuations*". [URL](https://jsbs2024.developmental-robotics.jp/home/home/)
+- *May 2024*: Oral Presentation, *Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures*. Tokyo, Japan. Presentation Title "*AI integrated multi-system modeling method revealing interaction among interoception, external stimuli, and psychological states*". [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
+- *Feb. 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan. Presentation Title "*Modulation Mechanism of Autonomic Nervous System (ANS) on Physiological and Psychological Conditions: An AI-integrated Multi-systme Computational Model*". [URL](https://sites.google.com/nips.ac.jp/s2024)
+- *Jun. 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy. Presentation Title "*A Machine Learning-integrated 0-1D Multiscale Hemodynamics Model with Consideration of Respiratory Fluctuations*". [URL](https://compbiomed.net/CMBE/cmbe2022/)
+- *Sep. 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan. Presentation Title "*Impact of Respiratory Fluctuation (RF) on Cardiac Function: An Integrated Study Combining Machine Learning and 0-1D Hemodynamic Model*". [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
 
 <span id="-Educations"></span>
 ## Educations
@@ -67,9 +68,6 @@ If you share similar interests or are curious about potential collaborations, pl
 - *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 - *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
 <br>
-<br>
-<br>
-
 
 <hr />
 
