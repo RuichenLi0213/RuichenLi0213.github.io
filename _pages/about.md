@@ -14,7 +14,7 @@ Welcome, and thank you for visiting my page.
 
 I am working as a project researcher at the International Research Center for Neurointelligence (IRCN) at the University of Tokyo.
 
-My research focuses on physiological modeling of multiple interacting systems within the human body. I develop multi-system computational models of the cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS) to reproduce and analyze quantifiable interoceptive signals—such as variabilities of blood pressure and heart rate—validated against real human data. I am particularly interested in how cross-system interactions contribute to maintaining and mediating homeostasis and allostasis in human body.
+My research focuses on computational modeling of multiple interacting systems within the human body. I develop multi-system models of the cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS) to reproduce and analyze quantifiable interoceptive signals—such as variabilities of blood pressure and heart rate—validated against real human data. I am particularly interested in how cross-system interactions contribute to maintaining and mediating homeostasis and allostasis in human body.
 
 My current work seeks to address the following fundamental questions: 
 - How do quantifiable interoceptive signals, like blood pressure and heart rate, differ across neurodivergent conditions?
