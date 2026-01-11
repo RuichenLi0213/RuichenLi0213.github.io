@@ -30,11 +30,12 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-News"></span>
 ## News
-- *Dec 25, 2026*: Awarded 🎉 CREST Young Researcher’s Challenge funding (JST, Japan). Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
+- *Dec 25, 2026*: Awarded 🎉 CREST Young Researcher’s Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 - *Jul 7-11, 2025*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2025). The University of Tokyo, Japan. Project Title "*Heart Rate Variability (HRV) Analysis and Its Relation to Mental States*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
 - *Jul 10, 2025*: Acceptance 🎉 40th congress of the international union of physiological sciences (IUPS2025). [URL](https://www.iups2025.com)
 - *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship. Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
 - *Apr 17, 2025*: Host IRCN Science Tour. The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
+- *Jul 31, 2024*: Awarded 🎉 JSPS Start-up Project. Project Title: "*Multi-system modeling method revealing interaction among interoception, and emotional states*". [URL](https://www.jsps.go.jp/j-grantsinaid/22_startup_support/index.html)
 - *Jun 24-28, 2024*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2024). The University of Tokyo, Japan. Project Title "*Analysis and modulation of heart rate variability (HRV)*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc_24S_20240415.html)
 - *May 22-27, 2024*: Host Workshop. The University of Tokyo, Japan. Workshop Title "*Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures*". [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
 
@@ -64,6 +65,10 @@ If you share similar interests or are curious about potential collaborations, pl
 - *Feb 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan 🇯🇵. Presentation Title "*Modulation Mechanism of Autonomic Nervous System (ANS) on Physiological and Psychological Conditions: An AI-integrated Multi-system Computational Model*". [URL](https://sites.google.com/nips.ac.jp/s2024)
 - *Jun 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy 🇮🇹. Presentation Title "*A Machine Learning-integrated 0-1D Multiscale Hemodynamics Model with Consideration of Respiratory Fluctuations*". [URL](https://compbiomed.net/CMBE/cmbe2022/)
 - *Sep 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan 🇯🇵. Presentation Title "*Impact of Respiratory Fluctuation (RF) on Cardiac Function: An Integrated Study Combining Machine Learning and 0-1D Hemodynamic Model*". [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
+
+<span id="-Projects"></span>
+## Projects
+- *Dec 25, 2026*: Awarded 🎉 CREST Young Researcher’s Challenge Project (JST, Japan). Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 
 <span id="-Educations"></span>
 ## Educations
