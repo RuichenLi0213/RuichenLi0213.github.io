@@ -43,6 +43,13 @@ If you share similar interests or are curious about potential collaborations, pl
 ## Experiences 
 - *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
 
+<span id="-Projects"></span>
+## Projects
+- *Apr 2026-Mar 2027*: CREST Young Researcher’s Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*"
+-   This study aims to elucidate autonomic regulation mechanisms underlying interoceptive signals such as heart rate (HR) and blood pressure (BP) through computational modeling, comparing patterns of typically developing (TD) and autism spectrum disorder (ASD) individuals under external stimuli. By integrating cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS), this study defines autonomic control modes and relative activities of ANS branches, revealing individual diversity in physiological regulation. The study also plan to examines how ANS variations influence the link between interoceptive signals and cognitive states, and explores model-based self-regulation strategies, such as rhythmic breathing, for improving ASD individuals’ abnormal interoceptive signals and related emotional/cognitive control. While independent from the CREST main project “Cognitive Feelings that Mediate Between Perception and Emotion,” it complements it by providing physiological foundations and quantitative indices, extending the understanding of internal state prediction and regulation.
+- *Apr 2024-Mar 2026*: JSPS Start-up Project. Project Title: "*Multi-system modeling method revealing interaction among interoception, and emotional states*"
+-   Interoception exhibits a complex interaction mechanism with emotional states. Abnormal variations of some interoceptive rhythms such as heart rate variability, blood pressure, respiratory changes, etc., manifest strong correlations with both short-term alerting stimuli and long-term mental perturbation. This project aims to establish a comprehensive analytical framework of multi-system physiological modeling Modulation of the autonomic nervous system on interoceptive rhythms will be established with consideration of emotional impacts, to unveil the relationship between physiological processes and emotions. The ultimate goal of this project is to identify appropriate self-regulation methods for restoring abnormal interoceptive rhythms affected by emotional fluctuations, thereby aiding individuals in better managing their emotional states.
+
 <span id="-Publications"></span>
 ## Publications 
 - Sughimoto, K., Miki, T., <u>Li, R.</u>, Maeda, K., Koda, D., Fujiwara, T., & Liu, H. (2025). Impact of collateral vessels on Fontan circulation: 0-1dimensional Fontan circulation model and concept of oxygen supply and consumption. *Annals of Thoracic Surgery Short Reports (IF: 5.102)*. [URL](https://www.sciencedirect.com/science/article/pii/S2772993125000105)
@@ -65,10 +72,6 @@ If you share similar interests or are curious about potential collaborations, pl
 - *Feb 2024*: Poster Presentation, *The 53rd Neural Dynamics and Information Processing in the Brain and Body International Symposium (53rd NIPS)*. Okazaki, Aichi, Japan 🇯🇵. Presentation Title "*Modulation Mechanism of Autonomic Nervous System (ANS) on Physiological and Psychological Conditions: An AI-integrated Multi-system Computational Model*". [URL](https://sites.google.com/nips.ac.jp/s2024)
 - *Jun 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy 🇮🇹. Presentation Title "*A Machine Learning-integrated 0-1D Multiscale Hemodynamics Model with Consideration of Respiratory Fluctuations*". [URL](https://compbiomed.net/CMBE/cmbe2022/)
 - *Sep 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan 🇯🇵. Presentation Title "*Impact of Respiratory Fluctuation (RF) on Cardiac Function: An Integrated Study Combining Machine Learning and 0-1D Hemodynamic Model*". [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
-
-<span id="-Projects"></span>
-## Projects
-- *Dec 25, 2026*: Awarded 🎉 CREST Young Researcher’s Challenge Project (JST, Japan). Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 
 <span id="-Educations"></span>
 ## Educations
