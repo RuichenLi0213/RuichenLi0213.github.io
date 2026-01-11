@@ -2,6 +2,9 @@
 main:
   - title: "Greeting"
     url: "/#Greeting"
+    
+  - title: "News"
+    url: "/#-News"
 
   - title: "Experiences"
     url: "/#-Experiences"
