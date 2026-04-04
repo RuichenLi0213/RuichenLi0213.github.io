@@ -30,7 +30,8 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-News"></span>
 ## News
-- *Dec 25, 2026*: Awarded 🎉 CREST Young Researchers' Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
+- *Feb 27, 2026*: Awarded 🎉 JSPS Early-Career Scientist Project. Project Title: "*Computational Modeling of Heart Rate Variability for Assessing Autonomic Nervous System Function*". [URL](https://www.jsps.go.jp/j-grantsinaid/03_keikaku/index.html)
+- *Dec 25, 2025*: Awarded 🎉 CREST Young Researchers' Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 - *Jul 7-11, 2025*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2025). The University of Tokyo, Japan. Project Title "*Heart Rate Variability (HRV) Analysis and Its Relation to Mental States*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
 - *Jul 10, 2025*: Accepted 🎉 40th congress of the international union of physiological sciences (IUPS2025). [URL](https://www.iups2025.com)
 - *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship. Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
@@ -45,6 +46,10 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Projects"></span>
 ## Projects
+- *Apr 2026-Mar 2029*: JSPS Early-Career Scientist Project. Project Title: "*Computational Modeling of Heart Rate Variability for Assessing Autonomic Nervous System Function*"
+
+  This project integrates heart rate variability (HRV) into a multi-system computational model of cardiovascular and respiratory dynamics to evaluate autonomic nervous system (ANS) functions in both typical developmental (TD) and neurodivergent populations, such as autism spectrum disorder (ASD), under various external stimuli. By combining Gaussian-based frequency-domain modeling, Fourier signal reconstruction, and machine learning or deep learning (ML/DL) technologies, the study will examine how HRV varies and influences interoceptive signals, such as heart rate (HR) and blood pressure (BP), under ANS function or dysfunction. This study will also establishing a novel platform for analysis and provide targeted self-regulation strategies for neurodivergent populations.
+
 - *Apr 2026-Mar 2027*: CREST Young Researcher’s Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*"
 
   This study aims to elucidate autonomic regulation mechanisms underlying interoceptive signals such as heart rate (HR) and blood pressure (BP) through computational modeling, comparing patterns of typically developing (TD) and autism spectrum disorder (ASD) individuals under external stimuli. By integrating cardiovascular system (CVS), respiratory system (RS), and autonomic nervous system (ANS), this study defines autonomic control modes and relative activities of ANS branches, revealing individual diversity in physiological regulation. The study also plan to examines how ANS variations influence the link between interoceptive signals and cognitive states, and explores model-based self-regulation strategies, such as rhythmic breathing, for improving ASD individuals’ abnormal interoceptive signals and related emotional/cognitive control. While independent from the CREST main project “Cognitive Feelings that Mediate Between Perception and Emotion,” it complements it by providing physiological foundations and quantitative indices, extending the understanding of internal state prediction and regulation.
@@ -65,6 +70,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Conferences"></span>
 ## Conferences
+- *Mar 2026*: Poster Presentation, *The 103rd Annual Meeting of the Physiological Society of Japan (PSJ)*. Tokyo, Japan 🇯🇵. Presentation Title "*Computational Modeling for Estimation of Autonomic Regulation of Interoceptive Signals*" [URL](https://www.aeplan.jp/psj2026/)
 - *Nov 2025*: Poster Presentation, *The 14th Annual Meeting of Japan Society for Developmental Neuroscience (JSDN14)*. Sendai, Japan 🇯🇵. Presentation Title "*Computational Modeling for Estimation of Autonomic Regulation of Interoceptive Signals*" [URL](https://jsdn.jp/meeting-information/14th-2025)
 - *Sep 2025*: Oral Presentation, *The 40th Congress of the International Union of Physiological Science a joint meeting with Europhysiology (IUPS2025)*. Frankfurt/Main, Germany 🇩🇪. Presentation Title "*Multi-system Modeling of Autonomic Nervous System Function in the Modulation of Interoceptive Signals*". [URL](https://www.iups2025.com)
 - *Mar 2025*: Poster Presentation, *The 130th Annual Meeting of the Japanese Association of Anatomists (JAA), the 102nd Annual Meeting of the Physiological Society of Japan (PSJ), and the 98th Annual Meeting of the Japanese Pharmacological Society (JPS) (APPW2025)*. Chiba, Chiba, Japan 🇯🇵. Presentation Title "*Multi-system Computational Modeling Analysis for Interoceptive Signal Modulation Under Various Autonomic Control Modes*". [URL](https://www.aeplan.jp/appw2025/)
