@@ -30,13 +30,13 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-News"></span>
 ## News
-- *Feb 27, 2026*: Awarded 🎉 JSPS KAKENHI Early-career Scientist Project. Project Title: "*Computational Modeling of Heart Rate Variability for Assessing Autonomic Nervous System Function*". [URL](https://www.jsps.go.jp/j-grantsinaid/03_keikaku/index.html)
-- *Dec 25, 2025*: Awarded 🎉 JST-CREST Young Researchers' Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
+- *Feb 27, 2026*: Awarded. JSPS KAKENHI Early-career Scientist Project. Project Title: "*Computational Modeling of Heart Rate Variability for Assessing Autonomic Nervous System Function*". [URL](https://www.jsps.go.jp/j-grantsinaid/03_keikaku/index.html)
+- *Dec 25, 2025*: Awarded. JST-CREST Young Researchers' Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 - *Jul 7-11, 2025*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2025). The University of Tokyo, Japan. Project Title "*Heart Rate Variability (HRV) Analysis and Its Relation to Mental States*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
 - *Jul 10, 2025*: Accepted 🎉 40th congress of the international union of physiological sciences (IUPS2025). [URL](https://www.iups2025.com)
 - *May 12-16, 2025*: Virtual Networking Week of The DAAD AInet Fellowship. Germany. Title "*Natural Language Processing*". [URL](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)
 - *Apr 17, 2025*: Host IRCN Science Tour. The University of Tokyo, Japan. Title "Princess Chulabhorn Science High School Chiang Rai, Thailand". [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
-- *Jul 31, 2024*: Awarded 🎉 JSPS KAKENHI Start-up Project. Project Title: "*Multi-system modeling method revealing interaction among interoception, and emotional states*". [URL](https://www.jsps.go.jp/j-grantsinaid/22_startup_support/index.html)
+- *Jul 31, 2024*: Awarded. JSPS KAKENHI Start-up Project. Project Title: "*Multi-system modeling method revealing interaction among interoception, and emotional states*". [URL](https://www.jsps.go.jp/j-grantsinaid/22_startup_support/index.html)
 - *Jun 24-28, 2024*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2024). The University of Tokyo, Japan. Project Title "*Analysis and modulation of heart rate variability (HRV)*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc_24S_20240415.html)
 - *May 22-27, 2024*: Host Workshop. The University of Tokyo, Japan. Workshop Title "*Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures*". [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
 
