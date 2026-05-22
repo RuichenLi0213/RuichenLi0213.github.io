@@ -30,6 +30,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-News"></span>
 ## News
+- *May 22, 2026*: Accepted 🎉 Computational Psychiatry Course 2026. [URL](https://www.translationalneuromodeling.org/cpcourse/)
 - *Feb 27, 2026*: Awarded. JSPS KAKENHI Early-career Scientist Project. Project Title: "*Computational Modeling of Heart Rate Variability for Assessing Autonomic Nervous System Function*". [URL](https://www.jsps.go.jp/j-grantsinaid/03_keikaku/index.html)
 - *Dec 25, 2025*: Awarded. JST-CREST Young Researchers' Challenge Project. Project Title: "*Computational Modeling of Autonomic Regulation Underlying Interoceptive Dynamics*". [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
 - *Jul 7-11, 2025*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2025). The University of Tokyo, Japan. Project Title "*Heart Rate Variability (HRV) Analysis and Its Relation to Mental States*". [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
