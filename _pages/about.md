@@ -64,6 +64,7 @@ If you share similar interests or are curious about potential collaborations, pl
 
 <span id="-Publications"></span>
 ## Publications 
+- <u>Li, R.</u>, Liu, H., Nagai Y. (2026). Interoceptive autonomic regulation in typical development and autism spectrum disorder: A computational model integrating multiple physiological systems. *PLOS ONE (IF: 2.8)*. Accepted. URL: TBA
 - Sughimoto, K., Miki, T., <u>Li, R.</u>, Maeda, K., Koda, D., Fujiwara, T., & Liu, H. (2025). Impact of collateral vessels on Fontan circulation: 0-1dimensional Fontan circulation model and concept of oxygen supply and consumption. *Annals of Thoracic Surgery Short Reports (IF: 5.102)*. [URL](https://www.sciencedirect.com/science/article/pii/S2772993125000105)
 - Sughimoto, K., Miki, T., <u>Li, R.</u>, Fujiwara, T. F., & Liu, H. (2023). Impact of collateral vessels on Fontan circulation by using 0-1 dimensional Fontan circulation model considering concepts of oxygen supply and consumption. *European Heart Journal, 44(Supplement_2) (IF: 39.3)*, ehad655-3208. [URL](https://academic.oup.com/eurheartj/article/44/Supplement_2/ehad655.3208/7391489)
 - <u>Li, R.</u>, Sughimoto, K., Zhang, X., Wang, S., & Liu, H. (2023). Impacts of respiratory fluctuations on cerebral circulation: a machine-learning-integrated 0–1D multiscale hemodynamic model. *Physiological Measurement (IF: 2.3)*, 44(3), 035013. [URL](https://iopscience.iop.org/article/10.1088/1361-6579/acc3d7/meta)
