@@ -50,7 +50,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 - *Apr 17, 2025*: Host IRCN Science Tour. The University of Tokyo, Japan. [URL](https://ircn.jp/en/outreach_report/20250417_princess_chulabhorn_science_high_school_chiang_rai)
 - *Jul 31, 2024*: Awarded. JSPS KAKENHI Start-up Project. [URL](https://www.jsps.go.jp/j-grantsinaid/22_startup_support/index.html)
 - *Jun 24-28, 2024*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2024). [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc_24S_20240415.html)
-- *May 22-27, 2024*: Host Workshop "*Interdisciplinary Workshops on Interoceptive Awareness: Bridging Research Across Cultures*". [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
+- *May 22-27, 2024*: Host Workshop. [URL](https://sway.cloud.microsoft/SmWCZRj4tO08nwtx?ref=email)
 
 <span id="-Experiences"></span>
 ## Experiences 
