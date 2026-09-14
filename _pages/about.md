@@ -86,6 +86,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 
 <span id="-Conferences"></span>
 ## Conferences
+- *Sep 2026*: Poster Presentation, *Computational Psychiatry Course 2026 (CPC 2026)*. Zurich, Switzerland 🇨🇭. Presentation Title "*A Computational Model of Interoceptive Autonomic Regulation in Typical Development and Autism Spectrum Disorder*" [URL](https://www.translationalneuromodeling.org/cpcourse/)
 - *Mar 2026*: Poster Presentation, *The 103rd Annual Meeting of the Physiological Society of Japan (PSJ)*. Tokyo, Japan 🇯🇵. Presentation Title "*Computational Modeling for Estimation of Autonomic Regulation of Interoceptive Signals*" [URL](https://www.aeplan.jp/psj2026/)
 - *Nov 2025*: Poster Presentation, *The 14th Annual Meeting of Japan Society for Developmental Neuroscience (JSDN14)*. Sendai, Japan 🇯🇵. Presentation Title "*Computational Modeling for Estimation of Autonomic Regulation of Interoceptive Signals*" [URL](https://jsdn.jp/meeting-information/14th-2025)
 - *Sep 2025*: Oral Presentation, *The 40th Congress of the International Union of Physiological Science a joint meeting with Europhysiology (IUPS2025)*. Frankfurt/Main, Germany 🇩🇪. Presentation Title "*Multi-system Modeling of Autonomic Nervous System Function in the Modulation of Interoceptive Signals*". [URL](https://www.iups2025.com)
