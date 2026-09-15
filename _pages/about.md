@@ -39,6 +39,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 
 <span id="-News"></span>
 ## News
+- *Sep 15, 2026*: Journal Accepted 🎉 Frontiers in Neural Circuits. [URL] TBA.
 - *Jul 22, 2026*: Journal Accepted 🎉 PLOS ONE. [URL1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344235&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author);[URL2](https://www.growkudos.com/publications/10.1371%252Fjournal.pone.0344235/reader)
 - *Jul 6-10-, 2026*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2026). [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
 - *May 22, 2026*: Conference Accepted 🎉 Computational Psychiatry Course 2026. [URL](https://www.translationalneuromodeling.org/cpcourse/)
@@ -74,7 +75,8 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 
 <span id="-Publications"></span>
 ## Publications 
-- <u>Li, R.*</u>, Liu, H., Nagai Y. (2026). Interoceptive autonomic regulation in typical development and autism spectrum disorder: A computational model integrating multiple physiological systems. *PLOS ONE (IF: 2.8)*. [URL1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344235&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author);[URL2](https://www.growkudos.com/publications/10.1371%252Fjournal.pone.0344235/reader)
+- Sarune Savickaite, <u>Ruichen Li</u>, and Yukie Nagai. (2026). Beyond Heartbeats: Re-thinking Interoception in Autism with VR and AI Approaches. *Frontiers in Neural Circuits (IF: 6.7)*, accepted. [URL] TBA.
+- <u>Li, R.</u>, Liu, H., Nagai Y. (2026). Interoceptive autonomic regulation in typical development and autism spectrum disorder: A computational model integrating multiple physiological systems. *PLOS ONE (IF: 2.8)*. [URL1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344235&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author);[URL2](https://www.growkudos.com/publications/10.1371%252Fjournal.pone.0344235/reader)
 - Sughimoto, K., Miki, T., <u>Li, R.</u>, Maeda, K., Koda, D., Fujiwara, T., & Liu, H. (2025). Impact of collateral vessels on Fontan circulation: 0-1dimensional Fontan circulation model and concept of oxygen supply and consumption. *Annals of Thoracic Surgery Short Reports (IF: 5.102)*. [URL](https://www.sciencedirect.com/science/article/pii/S2772993125000105)
 - Sughimoto, K., Miki, T., <u>Li, R.</u>, Fujiwara, T. F., & Liu, H. (2023). Impact of collateral vessels on Fontan circulation by using 0-1 dimensional Fontan circulation model considering concepts of oxygen supply and consumption. *European Heart Journal, 44(Supplement_2) (IF: 39.3)*, ehad655-3208. [URL](https://academic.oup.com/eurheartj/article/44/Supplement_2/ehad655.3208/7391489)
 - <u>Li, R.</u>, Sughimoto, K., Zhang, X., Wang, S., & Liu, H.* (2023). Impacts of respiratory fluctuations on cerebral circulation: a machine-learning-integrated 0–1D multiscale hemodynamic model. *Physiological Measurement (IF: 2.3)*, 44(3), 035013. [URL](https://iopscience.iop.org/article/10.1088/1361-6579/acc3d7/meta)
