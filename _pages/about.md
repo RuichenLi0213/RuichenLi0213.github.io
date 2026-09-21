@@ -103,8 +103,9 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 <span id="-Educations"></span>
 ## Educations
 - *Oct. 2019 - Sep. 2023*: Ph.D, Biomechanical Engineering Lab, Graduate School of Science and Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
-- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
-- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China
+- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
+- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
+- *Sep. 2009 - Jun. 2012*: Shandong Experimental High School, China.
 <br>
 
 <hr />
