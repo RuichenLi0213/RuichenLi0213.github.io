@@ -41,7 +41,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 ## News
 - *Sep 15, 2026*: Journal Accepted 🎉 Frontiers in Neural Circuits. [URL](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2026.1934104/abstract).
 - *Jul 22, 2026*: Journal Accepted 🎉 PLOS ONE. [URL1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344235&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author);[URL2](https://www.growkudos.com/publications/10.1371%252Fjournal.pone.0344235/reader)
-- *Jul 6-10-, 2026*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2026). [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
+- *Jul 6-10, 2026*: Host Hands-on Project in UTokyo Global Unit Courses (GUC2026). [URL](https://www.u-tokyo.ac.jp/en/prospective-students/guc.html)
 - *May 22, 2026*: Conference Accepted 🎉 Computational Psychiatry Course 2026. [URL](https://www.translationalneuromodeling.org/cpcourse/)
 - *Feb 27, 2026*: Awarded. JSPS KAKENHI Early-career Scientist Project. [URL](https://www.jsps.go.jp/j-grantsinaid/03_keikaku/index.html)
 - *Dec 25, 2025*: Awarded. JST-CREST Young Researchers' Challenge Project. [URL](https://www.jst.go.jp/kisoken/crest/research/activity/1111117/reports/index.html)
