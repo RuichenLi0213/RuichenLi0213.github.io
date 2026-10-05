@@ -29,7 +29,7 @@ My current goals include:
 * integrating physiological signals with subjective, behavioral, and cognitive measures;
 * applying artificial intelligence and advanced computational methods to improve model interpretability and practical value.
 
-Ultimately, my research seeks to contribute to an inclusive and human-centered society in which technology adapts to human diversity rather than requiring people to conform to a single definition of normality. I hope to develop scientific and technological approaches that support people with diverse physiological, cognitive, and emotional characteristics, and that promote greater autonomy, mutual understanding, dignity, and social participation.
+Ultimately, my research seeks to contribute to an inclusive and human-oriented society in which technology adapts to human diversity rather than requiring people to conform to a single definition of normality. I hope to develop scientific and technological approaches that support people with diverse physiological, cognitive, and emotional characteristics, and that promote greater autonomy, mutual understanding, dignity, and social participation.
 
 I welcome interdisciplinary collaborations in computational neuroscience, physiology, embodied cognition, psychiatry, psychology, artificial intelligence, human–robot interaction, and human-centered technology.
 
