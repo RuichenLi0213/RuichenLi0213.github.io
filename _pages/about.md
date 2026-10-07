@@ -31,7 +31,7 @@ My current goals include:
 
 Ultimately, my research seeks to contribute to an inclusive and human-oriented society in which technology adapts to human diversity rather than requiring people to conform to a single definition of normality. I hope to develop scientific and technological approaches that support people with diverse physiological, cognitive, and emotional characteristics, and that promote greater autonomy, mutual understanding, dignity, and social participation.
 
-I welcome interdisciplinary collaborations in computational neuroscience, physiology, embodied cognition, psychiatry, psychology, artificial intelligence, human–robot interaction, and human-centered technology.
+I welcome interdisciplinary collaborations in computational neuroscience, physiology, embodied cognition, psychiatry, psychology, artificial intelligence, human–robot interaction, and any human-oriented technology.
 
 ## Email
 - *Official email*: li.ruichen (AT) mail.u-tokyo.ac.jp (Using "@" replace "(AT)")
