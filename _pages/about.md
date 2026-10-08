@@ -106,7 +106,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 - Track Programme Committee Member, Track Topic "*Designing XR for Cognitive Diversity*", 13th International Conference of Immersive Learning Research Network (iLRN 2027). [URL](https://www.immersivelrn.org/ilrn2027/special-tracks/dxcd/)
 
 **Professional Memberships**
-- *Jan 2025 - Now*: Member, The Physiological Society of Japan (PSJ).
+- *Jan 2025 - Now*: Member, The Physiological Society of Japan (PSJ). [URL](https://int.physiology.jp)
 
 <span id="-Educations"></span>
 ## Educations
