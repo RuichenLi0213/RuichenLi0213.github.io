@@ -55,7 +55,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 
 <span id="-Experiences"></span>
 ## Experiences 
-- *Jan. 2024 - now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
+- *Jan 2024-now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
 
 <span id="-Projects"></span>
 ## Projects
@@ -100,12 +100,19 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 - *Jun 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy 🇮🇹. Presentation Title "*A Machine Learning-integrated 0-1D Multiscale Hemodynamics Model with Consideration of Respiratory Fluctuations*". [URL](https://compbiomed.net/CMBE/cmbe2022/)
 - *Sep 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan 🇯🇵. Presentation Title "*Impact of Respiratory Fluctuation (RF) on Cardiac Function: An Integrated Study Combining Machine Learning and 0-1D Hemodynamic Model*". [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
 
+<span id="-Service"></span>
+## Service
+**Academic Service**
+- Track Programme Committee Member, Track Topic "*Designing XR for Cognitive Diversity*", 13th International Conference of Immersive Learning Research Network (iLRN 2027).[URL]([https://www.aeplan.jp/psj2026/](https://www.immersivelrn.org/ilrn2027/special-tracks/dxcd/))
+**Professional Memberships**
+- *Jan 2025 - Now* Member, The Physiological Society of Japan (PSJ).
+
 <span id="-Educations"></span>
 ## Educations
-- *Oct. 2019 - Sep. 2023*: Ph.D, Biomechanical Engineering Lab, Graduate School of Science and Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
-- *Sep. 2016 - Jun. 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
-- *Sep. 2012 - Jun. 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
-- *Sep. 2009 - Jun. 2012*: Shandong Experimental High School, China.
+- *Oct 2019-Sep 2023*: Ph.D, Biomechanical Engineering Lab, Graduate School of Science and Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
+- *Sep 2016-Jun 2019*: M.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
+- *Sep 2012-Jun 2016*: B.E , School of Mechanical and Electrical Engineering, Shandong Jianzhu University, China.
+- *Sep 2009-Jun 2012*: Shandong Experimental High School, China.
 <br>
 
 <hr />
