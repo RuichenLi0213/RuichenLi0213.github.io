@@ -55,7 +55,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 
 <span id="-Experiences"></span>
 ## Experiences 
-- *Jan 2024-now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
+- *Jan 2024-now*: Postdoc (Project) researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
 - *Aug 2020-Sep 2023*: Technical Assistance for AI-based data analysis, Biomechanical Engineering Lab, Faculty of Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
 
 <span id="-Projects"></span>
@@ -107,7 +107,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 - Track Programme Committee Member, Track Topic "*Designing XR for Cognitive Diversity*", 13th International Conference of Immersive Learning Research Network (iLRN 2027). [URL](https://www.immersivelrn.org/ilrn2027/special-tracks/dxcd/)
 
 **Professional Memberships**
-- *Jan 2025 - Now*: Member, The Physiological Society of Japan (PSJ). [URL](https://int.physiology.jp)
+- *Jan 2025-Now*: Member, The Physiological Society of Japan (PSJ). [URL](https://int.physiology.jp)
 
 <span id="-Educations"></span>
 ## Educations
