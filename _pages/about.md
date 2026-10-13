@@ -56,6 +56,7 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 <span id="-Experiences"></span>
 ## Experiences 
 - *Jan 2024-now*: Project researcher, Cogintive Developmental Robotics Lab, International Research Center for Neurointelligence (IRCN), the University of Tokyo, Japan. [Homepage](https://developmental-robotics.jp/en/home/#pll_switcher)
+- *Aug 2020-Sep 2023*: Technical Assistance for AI-based data analysis, Biomechanical Engineering Lab, Faculty of Engineering, Chiba University, Japan. [Homepage](https://www.em.eng.chiba-u.jp/~liu/index.php?Home_En)
 
 <span id="-Projects"></span>
 ## Projects
