@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<span id="Greeting"></span>
-# Greeting
+<span id="About Me"></span>
+# About Me
 Welcome, and thank you for visiting my page.
 
 I am a Project Researcher at the International Research Center for Neurointelligence (WPI-IRCN), The University of Tokyo. My research lies at the intersection of computational physiology, interoception, autonomic neuroscience, embodied cognition, and neurodiversity.
