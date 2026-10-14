@@ -12,7 +12,7 @@ redirect_from:
 # About Me
 Welcome, and thank you for visiting my page.
 
-My name is Ruichen LI (李瑞晨) and I am a Project Researcher at the International Research Center for Neurointelligence (WPI-IRCN), The University of Tokyo. My research lies at the intersection of computational physiology, interoception, autonomic neuroscience, embodied cognition, and neurodiversity.
+I am a Project Researcher at the International Research Center for Neurointelligence (WPI-IRCN), The University of Tokyo. My research lies at the intersection of computational physiology, interoception, autonomic neuroscience, embodied cognition, and neurodiversity.
 
 I develop computational models of the cardiovascular, respiratory, and autonomic nervous systems to investigate how measurable bodily signals, including heart rate and blood pressure, emerge from underlying sympathetic and parasympathetic regulation. My work focuses not only on whether physiological regulation succeeds, but also on the regulatory strategies through which the body adapts to internal and external challenges.
 
