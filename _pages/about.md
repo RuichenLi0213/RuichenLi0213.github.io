@@ -101,8 +101,8 @@ I welcome interdisciplinary collaborations in computational neuroscience, physio
 - *Jun 2022*: Oral Presentation, *7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22)*. Milan, Italy 🇮🇹. Presentation Title "*A Machine Learning-integrated 0-1D Multiscale Hemodynamics Model with Consideration of Respiratory Fluctuations*". [URL](https://compbiomed.net/CMBE/cmbe2022/)
 - *Sep 2021*: Oral Presentation (online), *Mechanical Engineering Congress, 2021 Japan (MECJ-21)*. Chiba, Chiba, Japan 🇯🇵. Presentation Title "*Impact of Respiratory Fluctuation (RF) on Cardiac Function: An Integrated Study Combining Machine Learning and 0-1D Hemodynamic Model*". [URL](https://confit.atlas.jp/guide/event/jsme2021/top?lang=ja)
 
-<span id="-Conferences"></span>
-## Conferences
+<span id="-Software/Demos"></span>
+## Software & Demos
 - **ANS-CVS Demo** An interactive demonstration of autonomic–cardiovascular regulation. [URL](https://doi.org/10.6084/m9.figshare.35033062)
 
 <span id="-Service"></span>
