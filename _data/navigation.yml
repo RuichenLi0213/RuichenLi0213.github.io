@@ -17,6 +17,9 @@ main:
 
   - title: "Conferences"
     url: "/#-Conferences"
+
+  - title: "Software & Demos"
+    url: "/#-Software & Demos"
     
   - title: "Service"
     url: "/#-Service"
